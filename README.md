@@ -30,7 +30,7 @@ npm i
 
 ## Usage
 
-This site is live at [Fitness Tracker](https://powerful-sea-65196.herokuapp.com/)
+This site is live at 
 
 To use this node app and create your own local server, clone the repo down, use the terminal to cd into the root directory. Then run:
 
