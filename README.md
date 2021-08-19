@@ -10,7 +10,6 @@
 
 A fitness tracker app that gives the user ability to save there workouts and see progression by using graphs. 
 
-This application's structure follows the Model-View-Controller paradigm. It uses **_MongoDB_** and **_Mongoose_** to connect to a NoSQL MongoDB database for the Models and **_Express.js_** for the Controllers.
 
 ## Table of Contents
 
