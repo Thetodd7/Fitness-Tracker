@@ -1,9 +1,10 @@
 const router = require("express").Router();
 const path = require("path");
-
+// connecting routes to the correct place
 router.get("/exercise", (req, res) => {
   res.sendFile(path.join(__dirname, "../public/exercise.html"));
 });
+// connecting routes to the correct place
 
 router.get("/stats", (req, res) => {
   res.sendFile(path.join(__dirname, "../public/stats.html"));
