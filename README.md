@@ -13,12 +13,15 @@ A fitness tracker app that gives the user ability to save there workouts and see
 
 ## Table of Contents
 
-- [Description](#Description)
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Tests](#Tests)
-- [License](#License)
-- [Collaboration](#Collaboration)
+- [Fitness Tracker ![License: MIT](https://opensource.org/licenses/MIT)](#fitness-tracker-)
+  - [Screenshot](#screenshot)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Tests](#tests)
+  - [License](#license)
+  - [Collaboration](#collaboration)
 
 ## Installation
 
@@ -31,21 +34,11 @@ npm i
 ## Usage
 
 This site is live at 
-
+https://sheltered-reef-16274.herokuapp.com/
 To use this node app and create your own local server, clone the repo down, use the terminal to cd into the root directory. Then run:
 
 ```
-npm start
-```
-
-Use the terminal and start up the server. You can then access the API endpoints through a web browser or Insomnia.
-
-## Tests
-
-To test please run:
-
-```
-npm test
+node server.js
 ```
 
 ## License
