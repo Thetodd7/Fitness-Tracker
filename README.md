@@ -1,7 +1,7 @@
 # Fitness Tracker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Screenshot
-
+![Screen Shot 2021-08-25 at 1 01 37 PM](https://user-images.githubusercontent.com/85806673/130837355-f80d0ede-6e5b-4daa-ae1e-1b65ca8e3f77.jpg)
 
 </div></a>
 
