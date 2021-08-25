@@ -3,27 +3,26 @@
 ## Screenshot
 
 
-
-
+</div></a>
 
 ## Description
 
-A fitness tracker app that gives the user ability to save there workouts and see progression by using graphs. 
+A full stack fitness tracker app that allows you to save your workouts and get organize them using graphs. 
 
+This application' uses **_MongoDB_** and **_Mongoose_** to connect to a NoSQL MongoDB database for the Models and **_Express.js_** for the Controllers.
 
 ## Table of Contents
 
-- [Fitness Tracker ![License: MIT](https://opensource.org/licenses/MIT)](#fitness-tracker-)
-  - [Screenshot](#screenshot)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Tests](#tests)
-  - [License](#license)
-  - [Collaboration](#collaboration)
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Tests](#Tests)
+- [License](#License)
+- [Collaboration](#Collaboration)
 
 ## Installation
+
+### Dependencies: **Requires** **_Node.js_** installed on your computer
 
 To install the npm dependencies cd into the main directory and run:
 
@@ -33,12 +32,22 @@ npm i
 
 ## Usage
 
-This site is live at 
-https://sheltered-reef-16274.herokuapp.com/
+This site is live at [Fitness Tracker](https://sheltered-reef-16274.herokuapp.com/)
+
 To use this node app and create your own local server, clone the repo down, use the terminal to cd into the root directory. Then run:
 
 ```
-node server.js
+npm start
+```
+
+Use the terminal and start up the server. You can then access the API endpoints through a web browser or Insomnia.
+
+## Tests
+
+To test please run:
+
+```
+npm test
 ```
 
 ## License
@@ -47,6 +56,6 @@ node server.js
 
 ## Collaboration
 
-Please feel free to collaborate with me on this project! Just download it and submit a well documented pull request.
+Please feel free to collaborate with me on this project! Just pull it and submit a well documented pull request.
 
-If you have any questions, please contact me at toddgranados@gmail.com
+If you have any questions, please contact me at toddgranados@gmail.com.
