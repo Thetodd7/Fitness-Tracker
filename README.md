@@ -32,7 +32,7 @@ npm i
 
 ## Usage
 
-This site is live at [Fitness Tracker](https://sheltered-reef-16274.herokuapp.com/)
+This site is live at [Fitness Tracker](https://progressive-budget.herokuapp.com/)
 
 To use this node app and create your own local server, clone the repo down, use the terminal to cd into the root directory. Then run:
 
